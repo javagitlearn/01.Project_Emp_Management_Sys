@@ -1,0 +1,3 @@
+ Id,name,age,gender,mobile,reportingManager,isActive,addressId,addressLine1,addressLine2,addressLine3,landmark,pinCode,state,addressType,clId,clientName,clientIsActive,dId,designation
+1,string,0,string,string,string,FALSE,1,string,string,string,string,string,string,string,1,string,TRUE,1,string
+2,string1,2,string1,string1,festring,TRUE,2,sregrgtring,strinrregqreg,re,strwgring,strertwring,striretng,strtwrering,2,dffestring,TRUE,2,regfrstring
